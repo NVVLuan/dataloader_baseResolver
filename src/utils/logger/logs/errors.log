@@ -1,0 +1,515 @@
+[2023-03-10 09:02:21] [[31merror[39m]: =============== server error: Error: Looks like you use an incorrect version of the 'graphql' package: "16.6.0". Please ensure that you have installed a version that meets TypeGraphQL's requirement: "^15.3.0". ===============
+[2023-03-10 09:02:21] [[31merror[39m]: =============== server error: Error: Looks like you use an incorrect version of the 'graphql' package: "16.6.0". Please ensure that you have installed a version that meets TypeGraphQL's requirement: "^15.3.0". ===============
+[2023-03-10 09:03:16] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-10 09:05:55] [[31merror[39m]: ============== server error: Error: Some errors occurred while generating GraphQL schema:
+  Type Query must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ==============
+[2023-03-10 09:05:55] [[31merror[39m]: ============== server error: Error: Some errors occurred while generating GraphQL schema:
+  Type Query must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ==============
+[2023-03-10 09:06:23] [[31merror[39m]: ============== server error: Error: Some errors occurred while generating GraphQL schema:
+  Type Query must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ==============
+[2023-03-10 09:06:23] [[31merror[39m]: ============== server error: Error: Some errors occurred while generating GraphQL schema:
+  Type Query must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ==============
+[2023-03-10 09:06:52] [[31merror[39m]: ============== server error: Error: Some errors occurred while generating GraphQL schema:
+  Type Query must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ==============
+[2023-03-10 09:06:52] [[31merror[39m]: ============== server error: Error: Some errors occurred while generating GraphQL schema:
+  Type Query must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ==============
+[2023-03-10 09:07:43] [[31merror[39m]: ============== server error: Error: Some errors occurred while generating GraphQL schema:
+  Type Query must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ==============
+[2023-03-10 09:07:43] [[31merror[39m]: ============== server error: Error: Some errors occurred while generating GraphQL schema:
+  Type Query must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ==============
+[2023-03-10 09:08:09] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-10 09:08:39] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-10 09:09:06] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-10 09:09:06] [[31merror[39m]: ===============================================================error: password authentication failed for user "test"===============================================================
+[2023-03-10 09:09:06] [[31merror[39m]: ===============================================================error: password authentication failed for user "test"===============================================================
+[2023-03-10 09:13:00] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-10 09:13:00] [[31merror[39m]: ===========================================================error: password authentication failed for user "'postgres',"===========================================================
+[2023-03-10 09:13:00] [[31merror[39m]: ===========================================================error: password authentication failed for user "'postgres',"===========================================================
+[2023-03-10 09:15:55] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-10 09:15:56] [[31merror[39m]: ===========================================================error: password authentication failed for user "'postgres',"===========================================================
+[2023-03-10 09:15:56] [[31merror[39m]: ===========================================================error: password authentication failed for user "'postgres',"===========================================================
+[2023-03-10 09:16:02] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-10 09:16:02] [[31merror[39m]: ===========================================================error: password authentication failed for user "'postgres',"===========================================================
+[2023-03-10 09:16:02] [[31merror[39m]: ===========================================================error: password authentication failed for user "'postgres',"===========================================================
+[2023-03-10 09:16:21] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-10 09:16:21] [[31merror[39m]: ===========================================================error: password authentication failed for user "'postgres',"===========================================================
+[2023-03-10 09:16:21] [[31merror[39m]: ===========================================================error: password authentication failed for user "'postgres',"===========================================================
+[2023-03-10 09:34:22] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-10 09:34:22] [[31merror[39m]: ===========================================================error: password authentication failed for user "'postgres',"===========================================================
+[2023-03-10 09:34:22] [[31merror[39m]: ===========================================================error: password authentication failed for user "'postgres',"===========================================================
+[2023-03-10 09:35:06] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-10 09:35:06] [[31merror[39m]: ============================================================error: password authentication failed for user "postgres,"============================================================
+[2023-03-10 09:35:06] [[31merror[39m]: ============================================================error: password authentication failed for user "postgres,"============================================================
+[2023-03-10 09:35:22] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-10 09:35:22] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-10 10:26:16] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-10 10:26:16] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-10 12:03:01] [[32minfo[39m]: =========================== database disconnect ===========================
+[2023-03-13 13:28:50] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 13:28:50] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 13:30:15] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 13:30:15] [[32minfo[39m]: =========================== database disconnect ===========================
+[2023-03-13 13:45:40] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 13:45:40] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 13:45:56] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 13:45:57] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 13:46:41] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 13:46:41] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 13:47:14] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 13:47:14] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 13:58:42] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 13:58:42] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 14:00:01] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 14:00:02] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 14:00:38] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 14:00:38] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 14:01:16] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 14:01:16] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 14:01:18] [[32minfo[39m]: =========================== database disconnect ===========================
+[2023-03-13 14:31:52] [[31merror[39m]: ============= server error: Error: Some errors occurred while generating GraphQL schema:
+  Type Mutation must define one or more fields.
+Please check the `details` property of the error to get more detailed info. =============
+[2023-03-13 14:31:52] [[31merror[39m]: ============= server error: Error: Some errors occurred while generating GraphQL schema:
+  Type Mutation must define one or more fields.
+Please check the `details` property of the error to get more detailed info. =============
+[2023-03-13 14:32:23] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 14:32:23] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 14:40:27] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 14:40:28] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 14:44:02] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 14:44:02] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 14:45:48] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 14:45:49] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 14:46:21] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 14:46:22] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 14:46:59] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 14:47:00] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 14:49:42] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 14:49:43] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 14:52:22] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 14:52:23] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 14:52:39] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 14:52:39] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 14:53:15] [[31merror[39m]: ====== server error: Error: Some errors occurred while generating GraphQL schema:
+  Input Object type UserInput must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ======
+[2023-03-13 14:53:15] [[31merror[39m]: ====== server error: Error: Some errors occurred while generating GraphQL schema:
+  Input Object type UserInput must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ======
+[2023-03-13 14:54:02] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 14:54:02] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 14:55:28] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 14:55:28] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 14:57:13] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/base.module/base.resolver.ts[0m:[93m25[0m:[93m40[0m - [91merror[0m[90m TS2339: [0mProperty 'firstName' does not exist on type 'X'.
+
+[7m25[0m                 where: { id: dataInput.firstName },
+[7m  [0m [91m                                       ~~~~~~~~~[0m
+ 
+[2023-03-13 14:57:13] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/base.module/base.resolver.ts[0m:[93m25[0m:[93m40[0m - [91merror[0m[90m TS2339: [0mProperty 'firstName' does not exist on type 'X'.
+
+[7m25[0m                 where: { id: dataInput.firstName },
+[7m  [0m [91m                                       ~~~~~~~~~[0m
+ 
+[2023-03-13 14:57:28] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 14:57:29] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 14:58:04] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 14:58:04] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 14:59:29] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 14:59:29] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:02:37] [[31merror[39m]: ====== server error: Error: Some errors occurred while generating GraphQL schema:
+  Input Object type UserInput must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ======
+[2023-03-13 15:02:37] [[31merror[39m]: ====== server error: Error: Some errors occurred while generating GraphQL schema:
+  Input Object type UserInput must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ======
+[2023-03-13 15:04:36] [[31merror[39m]: ====== server error: Error: Some errors occurred while generating GraphQL schema:
+  Input Object type UserInput must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ======
+[2023-03-13 15:04:36] [[31merror[39m]: ====== server error: Error: Some errors occurred while generating GraphQL schema:
+  Input Object type UserInput must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ======
+[2023-03-13 15:06:09] [[31merror[39m]: ====== server error: Error: Some errors occurred while generating GraphQL schema:
+  Input Object type UserInput must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ======
+[2023-03-13 15:06:09] [[31merror[39m]: ====== server error: Error: Some errors occurred while generating GraphQL schema:
+  Input Object type UserInput must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ======
+[2023-03-13 15:07:36] [[31merror[39m]: ====== server error: Error: Some errors occurred while generating GraphQL schema:
+  Input Object type UserInput must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ======
+[2023-03-13 15:07:36] [[31merror[39m]: ====== server error: Error: Some errors occurred while generating GraphQL schema:
+  Input Object type UserInput must define one or more fields.
+Please check the `details` property of the error to get more detailed info. ======
+[2023-03-13 15:08:03] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:08:04] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:10:08] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/user.module/user.resolver.ts[0m:[93m6[0m:[93m26[0m - [91merror[0m[90m TS2554: [0mExpected 4 arguments, but got 3.
+
+[7m6[0m const userBaseResolver = createBaseResolver('User', User, UserInput);
+[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  [96msrc/modules/base.module/base.resolver.ts[0m:[93m14[0m:[93m5[0m
+    [7m14[0m     check: string
+    [7m  [0m [96m    ~~~~~~~~~~~~~[0m
+    An argument for 'check' was not provided.
+ 
+[2023-03-13 15:10:08] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/user.module/user.resolver.ts[0m:[93m6[0m:[93m26[0m - [91merror[0m[90m TS2554: [0mExpected 4 arguments, but got 3.
+
+[7m6[0m const userBaseResolver = createBaseResolver('User', User, UserInput);
+[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  [96msrc/modules/base.module/base.resolver.ts[0m:[93m14[0m:[93m5[0m
+    [7m14[0m     check: string
+    [7m  [0m [96m    ~~~~~~~~~~~~~[0m
+    An argument for 'check' was not provided.
+ 
+[2023-03-13 15:10:25] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:10:25] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:12:05] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:12:06] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:15:29] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:15:29] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:18:03] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:18:04] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:20:48] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:20:48] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:22:17] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:22:17] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:22:27] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:22:28] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:23:03] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:23:04] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:24:02] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:24:02] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:25:02] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:25:03] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:28:44] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:28:45] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:34:12] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:34:12] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:38:02] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:38:02] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:46:32] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:46:32] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:54:10] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/user.module/user.types/user.input.ts[0m:[93m3[0m:[93m10[0m - [91merror[0m[90m TS2305: [0mModule '"../../../utils/customValidates/user.custom"' has no exported member 'IsUserAlreadyExist'.
+
+[7m3[0m import { IsUserAlreadyExist } from '../../../utils/customValidates/user.custom';
+[7m [0m [91m         ~~~~~~~~~~~~~~~~~~[0m
+ 
+[2023-03-13 15:54:10] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/user.module/user.types/user.input.ts[0m:[93m3[0m:[93m10[0m - [91merror[0m[90m TS2305: [0mModule '"../../../utils/customValidates/user.custom"' has no exported member 'IsUserAlreadyExist'.
+
+[7m3[0m import { IsUserAlreadyExist } from '../../../utils/customValidates/user.custom';
+[7m [0m [91m         ~~~~~~~~~~~~~~~~~~[0m
+ 
+[2023-03-13 15:54:32] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:54:32] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:55:19] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:55:19] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:56:15] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:56:15] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:58:19] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:58:19] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 15:59:36] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 15:59:36] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 16:01:20] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 16:01:20] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 16:01:49] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 16:01:49] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 16:02:52] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 16:02:52] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 16:03:08] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 16:03:08] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 16:05:25] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 16:05:26] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 16:08:56] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 16:08:56] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 16:10:46] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 16:10:47] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 16:12:26] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 16:12:26] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 16:14:40] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 16:14:40] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 16:15:04] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 16:15:05] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 16:16:22] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 16:16:22] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 16:16:39] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-13 16:16:40] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-13 16:25:00] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/user.module/user.entity.ts[0m:[93m27[0m:[93m6[0m - [91merror[0m[90m TS2304: [0mCannot find name 'OneToMany'.
+
+[7m27[0m     @OneToMany(() => Post, post => post.id)
+[7m  [0m [91m     ~~~~~~~~~[0m
+[96msrc/modules/user.module/user.entity.ts[0m:[93m27[0m:[93m22[0m - [91merror[0m[90m TS2304: [0mCannot find name 'Post'.
+
+[7m27[0m     @OneToMany(() => Post, post => post.id)
+[7m  [0m [91m                     ~~~~[0m
+[96msrc/modules/user.module/user.entity.ts[0m:[93m29[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'Post'.
+
+[7m29[0m     posts: Promise<Post[]>;
+[7m  [0m [91m                   ~~~~[0m
+ 
+[2023-03-13 16:25:00] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/user.module/user.entity.ts[0m:[93m27[0m:[93m6[0m - [91merror[0m[90m TS2304: [0mCannot find name 'OneToMany'.
+
+[7m27[0m     @OneToMany(() => Post, post => post.id)
+[7m  [0m [91m     ~~~~~~~~~[0m
+[96msrc/modules/user.module/user.entity.ts[0m:[93m27[0m:[93m22[0m - [91merror[0m[90m TS2304: [0mCannot find name 'Post'.
+
+[7m27[0m     @OneToMany(() => Post, post => post.id)
+[7m  [0m [91m                     ~~~~[0m
+[96msrc/modules/user.module/user.entity.ts[0m:[93m29[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'Post'.
+
+[7m29[0m     posts: Promise<Post[]>;
+[7m  [0m [91m                   ~~~~[0m
+ 
+[2023-03-13 16:25:16] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-13 16:25:16] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-13 16:44:54] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-13 16:44:54] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-14 13:50:36] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-14 13:50:36] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-14 13:51:54] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-14 13:51:54] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-14 13:52:13] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-14 13:52:13] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-14 13:53:21] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-14 13:53:21] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-14 13:53:50] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 13:53:50] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 13:54:17] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-14 13:54:17] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-14 13:54:26] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-14 13:54:26] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-14 13:54:38] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-14 13:54:38] [[31merror[39m]: ======================================= server error: Error: Unable to infer GraphQL type from TypeScript reflection system. You need to provide explicit type for 'user' of 'Post' class. =======================================
+[2023-03-14 13:56:43] [[31merror[39m]: ================================================================ server error: Error: No provided object type in '@Resolver' decorator for class 'UserResolver!' ================================================================
+[2023-03-14 13:56:43] [[31merror[39m]: ================================================================ server error: Error: No provided object type in '@Resolver' decorator for class 'UserResolver!' ================================================================
+[2023-03-14 13:57:43] [[31merror[39m]: ================================================================ server error: Error: No provided object type in '@Resolver' decorator for class 'UserResolver!' ================================================================
+[2023-03-14 13:57:43] [[31merror[39m]: ================================================================ server error: Error: No provided object type in '@Resolver' decorator for class 'UserResolver!' ================================================================
+[2023-03-14 13:58:46] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 13:58:46] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:02:27] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:02:27] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:03:40] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:03:40] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:05:46] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:05:46] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:08:07] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:08:07] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:08:53] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:08:53] [[31merror[39m]: TypeORMError: Entity metadata for User#posts was not found. Check if you specified a correct entity object and if it's connected in the connection options.
+[2023-03-14 14:08:53] [[31merror[39m]: TypeORMError: Entity metadata for User#posts was not found. Check if you specified a correct entity object and if it's connected in the connection options.
+[2023-03-14 14:09:47] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:09:47] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:21:27] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:21:27] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:24:04] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/base.module/base.resolver.ts[0m:[93m20[0m:[93m77[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m20[0m                 console.log(await AppDataSource.getRepository(entity).find();)
+[7m  [0m [91m                                                                            ~[0m
+[96msrc/modules/base.module/base.resolver.ts[0m:[93m20[0m:[93m78[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m20[0m                 console.log(await AppDataSource.getRepository(entity).find();)
+[7m  [0m [91m                                                                             ~[0m
+ 
+[2023-03-14 14:24:04] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/base.module/base.resolver.ts[0m:[93m20[0m:[93m77[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m20[0m                 console.log(await AppDataSource.getRepository(entity).find();)
+[7m  [0m [91m                                                                            ~[0m
+[96msrc/modules/base.module/base.resolver.ts[0m:[93m20[0m:[93m78[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m20[0m                 console.log(await AppDataSource.getRepository(entity).find();)
+[7m  [0m [91m                                                                             ~[0m
+ 
+[2023-03-14 14:24:23] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:24:24] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:26:32] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:26:32] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:26:46] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:26:47] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:27:36] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:27:36] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:29:07] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:29:07] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:29:44] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:29:44] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:33:34] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:33:34] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:35:41] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:35:41] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:36:13] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:36:13] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:41:02] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:41:02] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:41:28] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:41:28] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:49:27] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:49:28] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:49:40] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:49:40] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:50:04] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:50:05] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:51:10] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:51:11] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:51:41] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:51:41] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:52:37] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/user.module/user.resolver.ts[0m:[93m19[0m:[93m69[0m - [91merror[0m[90m TS2355: [0mA function whose declared type is neither 'void' nor 'any' must return a value.
+
+[7m19[0m     async posts(@Root() user: User, @Ctx() context: Context<Post>): Promise<Post[]> {
+[7m  [0m [91m                                                                    ~~~~~~~~~~~~~~~[0m
+ 
+[2023-03-14 14:52:37] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/user.module/user.resolver.ts[0m:[93m19[0m:[93m69[0m - [91merror[0m[90m TS2355: [0mA function whose declared type is neither 'void' nor 'any' must return a value.
+
+[7m19[0m     async posts(@Root() user: User, @Ctx() context: Context<Post>): Promise<Post[]> {
+[7m  [0m [91m                                                                    ~~~~~~~~~~~~~~~[0m
+ 
+[2023-03-14 14:52:56] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:52:56] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:59:11] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:59:11] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 14:59:35] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 14:59:35] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:00:04] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:00:04] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:00:39] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/user.module/user.resolver.ts[0m:[93m22[0m:[93m39[0m - [91merror[0m[90m TS2554: [0mExpected 1 arguments, but got 0.
+
+[7m22[0m         console.log(await postsLoader.load());
+[7m  [0m [91m                                      ~~~~~~[0m
+
+  [96mnode_modules/dataloader/index.d.ts[0m:[93m27[0m:[93m8[0m
+    [7m27[0m   load(key: K): Promise<V>;
+    [7m  [0m [96m       ~~~~~~[0m
+    An argument for 'key' was not provided.
+ 
+[2023-03-14 15:00:39] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/user.module/user.resolver.ts[0m:[93m22[0m:[93m39[0m - [91merror[0m[90m TS2554: [0mExpected 1 arguments, but got 0.
+
+[7m22[0m         console.log(await postsLoader.load());
+[7m  [0m [91m                                      ~~~~~~[0m
+
+  [96mnode_modules/dataloader/index.d.ts[0m:[93m27[0m:[93m8[0m
+    [7m27[0m   load(key: K): Promise<V>;
+    [7m  [0m [96m       ~~~~~~[0m
+    An argument for 'key' was not provided.
+ 
+[2023-03-14 15:03:02] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:03:02] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:04:00] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:04:00] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:06:12] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:06:12] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:06:55] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:06:55] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:07:08] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:07:08] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:07:35] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:07:35] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:07:47] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:07:47] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:10:17] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:10:25] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:10:25] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:21:09] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:21:09] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:26:56] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:26:56] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:27:32] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:27:32] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:30:45] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:30:45] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:31:19] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:31:19] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:36:47] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:36:47] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:44:35] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:44:35] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:45:33] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:45:33] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:46:15] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:46:16] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:47:15] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:47:15] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:49:51] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:49:51] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:50:24] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 15:50:25] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 15:52:48] [[32minfo[39m]: =========================== database disconnect ===========================
+[2023-03-14 16:17:46] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 16:17:46] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 16:26:04] [[32minfo[39m]: =========================== database disconnect ===========================
+[2023-03-14 17:38:04] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 17:38:04] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 17:43:37] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 17:43:37] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 17:46:34] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 17:46:35] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 17:47:52] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 17:47:52] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 17:50:34] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 17:50:34] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 17:53:08] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 17:53:08] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 17:53:22] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 17:53:22] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 17:57:29] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/post.module/post.types/post.input.ts[0m:[93m9[0m:[93m5[0m - [91merror[0m[90m TS2416: [0mProperty 'id' in type 'PostInput' is not assignable to the same property in base type 'Partial<Post>'.
+  Type 'number' is not assignable to type 'string'.
+
+[7m9[0m     id?: number;
+[7m [0m [91m    ~~[0m
+ 
+[2023-03-14 17:57:29] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/post.module/post.types/post.input.ts[0m:[93m9[0m:[93m5[0m - [91merror[0m[90m TS2416: [0mProperty 'id' in type 'PostInput' is not assignable to the same property in base type 'Partial<Post>'.
+  Type 'number' is not assignable to type 'string'.
+
+[7m9[0m     id?: number;
+[7m [0m [91m    ~~[0m
+ 
+[2023-03-14 17:57:46] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/post.module/post.types/post.input.ts[0m:[93m9[0m:[93m5[0m - [91merror[0m[90m TS2416: [0mProperty 'id' in type 'PostInput' is not assignable to the same property in base type 'Partial<Post>'.
+  Type 'number' is not assignable to type 'string'.
+
+[7m9[0m     id?: number;
+[7m [0m [91m    ~~[0m
+ 
+[2023-03-14 17:57:46] [[31merror[39m]:  server error: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/modules/post.module/post.types/post.input.ts[0m:[93m9[0m:[93m5[0m - [91merror[0m[90m TS2416: [0mProperty 'id' in type 'PostInput' is not assignable to the same property in base type 'Partial<Post>'.
+  Type 'number' is not assignable to type 'string'.
+
+[7m9[0m     id?: number;
+[7m [0m [91m    ~~[0m
+ 
+[2023-03-14 17:58:01] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 17:58:02] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 17:59:51] [[32minfo[39m]: =========================== database disconnect ===========================
+[2023-03-14 18:00:41] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 18:00:41] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 18:01:30] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 18:01:31] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 18:02:40] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 18:02:40] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 18:03:07] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 18:03:07] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 18:03:40] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 18:03:40] [[32minfo[39m]: ====================== connect database successfully ======================
+[2023-03-14 18:05:08] [[32minfo[39m]: =================== server run at http://localhost:8080 ===================
+[2023-03-14 18:05:08] [[32minfo[39m]: ====================== connect database successfully ======================
